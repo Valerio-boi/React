@@ -1,0 +1,69 @@
+{
+    "translations": {
+        "InitialCard": {
+            "Title1": "Panning machine",
+            "Description": "Panning machines for making caramelizzed products."
+        },
+        "SecondCard": {
+            "Title1": "Dragee technology", 
+            "Description":"Chocolate coating machines for small and big productions."
+        },
+        "ThirdCard": {
+            "Title1": "Mixer machine",
+            "Description": "Machine for paste mixing"
+        },
+        "Machine1": {
+            "Title": "Panning machine PRA60",
+            "Description":"Machine for make caramelized products using peanuts, dried fruit, almonds, walnuts, peanuts and various seeds."
+        },
+        "Machine2": {
+            "Title": "Panning machine PRA30",
+            "Description":"A small panning machine for make caramelized products using peanuts, dried fruit, almonds, walnuts, peanuts and various seeds."
+        },
+        "Machine3": {
+            "Title": "Dragee machine DRG60",
+            "Description":"Machine for jam and cold dragee products."
+        },
+        "Machine4": {
+            "Title": "Mixers - TEKNOMIX",
+            "Description":"Kneading machine."
+        },
+        "LabelButton": {
+            "Button": "Show me"
+        },
+        "Catalogo": {
+            "Title": "Our machines"
+        },
+        "Contatti": {
+            "Contacts": "Contacts"
+        },
+        "ModalInfo": {
+            "GeneralTilte": "Info and Contacts",
+            "FirstTitle": "Our company",
+            "SecondTitle": "Technology:",
+            "FirstDescription": "Speed, competence and seriousness make our company an ideal partner to trust. Visit our products section to look at our machines. ITARUS, also offer EXWorks resale service of machines and spare parts. Contact us without obligation for any request.",
+            "SecondDescription": "Our machines are suitable for the confectionery sector, by small confectioners and large production companies. About this, the company develop new technological solutions for fully, or partially automated production, maintaining a reliable and simple maintenance.",
+            "Contatti": "Contacts",
+            "DescriptionContatti": "Send us email: marcogiacobbo@itarus.eu or call us for any request +39 349-3348681 \n Via A. Zarpellon 38, San Giuseppe di Cassola (VI) 36022",
+            "Contattaci": "Request a custom quotation without obligation by sending an email to:"
+        },
+        "PralinatricePRA60":{
+            "Title": "Panning machine mPRA30",
+            "Description": "The panning machine model mPRA30 is a small machine for making caramelized products using almonds, peanuts, nuts walnuts, and other kind of seeds or dryied small fruits. The machine is semi-automatic. The heating system is equipped with 1 LPG / CNG burner with manual valve management up to 6Kw of power. Hourly production 3-4Kg.",
+            "List": "<ul><li>Hand maded copper pot with 32cm diameter, height 21cm.</li><li>Power consumption 140w electric power 230V 50Hz</li><li>Pot speed rotation 25rpm</li><li>LPG/Methane heating system.</li><li>Burners power up to 6Kcal/h.</li><li>Hourly production indicative 3-4Kg</li><li>Measures 52x310x42cm Weight=15Kg</li></ul>"
+        },
+        "PralinatricePRA30":{
+            "Title": "Panning machine PRA60",
+            "Description": "The PRA60 model is the flagship model of ITARUS for making caramelized products using almond, peanuts, dried fruits, etc for medium and large pastry laboraties. The machine is semi-automatic with the possibility of adjusting the work inclination and for the product unloading, with the possibility of adjusting the rotation speed. The heating system is equipped with 2 LPG / CNG burners with manual valve management. It is possible to buy PRA60 with Painted or Steel versions.",
+            "List": "<ul><li>Semi-automatic inclination system from +20°to -55°.</li><li>60cm diameter handmade full copper pot.</li><li>Power consumption 370W, electrical voltage 230V 50Hz or 380V.</li><li>Speed pot rotation from 18rpm to max 32rpm.</li><li>LPG/Methane pot heating system.</li><li>Burners power from 4 to 16Kcal/h.</li><li>Hour indicative production of 20-24Kg</li><li>Machine measures 75x114x135cm Weight=145Kg</li></ul>",
+            "Optional": "Optionals: Electric valve for avoid risk of burn the product during the unload",
+            "Informazioni": "For others informations, download machine",
+            "Catalogo": "brochure."
+        },
+        "ConfettatriceDRG60":{
+            "Title": "Panning machine IR_DRG60",
+            "Description": "The ITARUS model DRG60 is a machine for making chocolate and sugar coated products with cold DRAGEE technology, for medium / large laboratories with a 60cm diameter stainless steel bowl. The machine is equipped with minimum electronic controls, with adjustable manual tilt adjustment every 15 °. It is possible to buy DRG60 in the Iron Painted or Steel versions.",
+            "List": "<ul><li>Manual inclination between +15°/-15°.</li><li>INOX pot with 60cm diameter.</li><li>Power supply 550W - 230V50Hz</li><li>P.S.R. from 1 to 30 rpm.</li><li>Hour indicative production of 30-40Kg</li><li>Machine measures 75x114x135cm Weight=135Kg</li></ul>"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "translations": {
+        "InitialCard": {
+            "Title1": "Soluciones de praliné",
+            "Description": "Maquinaria para empresas productoras de dulces."
+        },
+        "SecondCard": {
+            "Title1": "Tecnologìa drageès",
+            "Description":"Máquinas para la preparación de confeti y grageas."
+        },
+        "Machine1": {
+            "Title": "Garrapiñadora IR_PRA60",
+            "Description":"Máquina de Garrapiñar para el recubrimiento con azúcar de avellanas, almendras, cacahuetes y frutos secos."
+        },
+        "Machine2": {
+            "Title": "Grageadoras IR_DRG60",
+            "Description":"Para la producción de grageas, dragées confeti y / o productos con colores."
+        },
+        "Machine3": {
+            "Title": "Garrapiñadora IR_PRA30",
+            "Description":"Máquina de Garrapiñar para el recubrimiento con azúcar de avellanas, almendras, cacahuetes y frutos secos."
+        },
+        "LabelButton": {
+            "Button": "Muéstrame"
+        },
+        "Catalogo": {
+            "Title": "Nuestra maquinaria"
+        },
+        "Contatti": {
+            "Contacts": "Contactos"
+        },
+        "ModalInfo": {
+            "GeneralTilte": "Información y contactos",
+            "FirstTitle": "Nuestra compañia",
+            "SecondTitle": "Tecnología innovadora:",
+            "FirstDescription": "La competencia y la seriedad hacen de ITARUS un socio ideal en el que confiar. Visita nuestra sección de productos para ver nuestros productos de Pralines y Dragee. ITARUS también ofrece servicios para revender máquinas y piezas de repuesto para el extranjero. Contáctenos sin compromiso para cualquier solicitud.",
+            "SecondDescription": "Nuestras máquinas son adecuadas para el sector de la confitería por pequeños confiteros y grandes empresas de producción. Con este fin, la compañía desarrolla nuevas soluciones tecnológicas para la producción total o parcialmente automatizada, manteniendo un mantenimiento confiable y simple.",
+            "Contatti": "Contactos e informaciòn",
+            "DescriptionContatti": "Envíenos un correo electrónico: marcogiacobbo@itarus.eu o póngase en contacto con nosotros por teléfono para obtener información. \n Via A. Zarpellon 38, San Giuseppe di Cassola (VI) 36022",
+            "Contattaci": "Solecite un presupuesto personalizado  sin compromiso enviando  un correo electronico a:"
+        },
+        "PralinatricePRA30":{
+            "Title": "Pralinatrice PRA60",
+            "Description": "Il modello PRA60 è il modello di punta della ITARUS per la pralinatura con zucchero di mandorle, noccioline, frutta secca e arachidi per l'utilizzo in pasticcerie medio/grandi. La macchina è semi-automatica con possibilità  di regolazione dell' inclinazione di lavoro e per lo scarico prodotto, con possibilità  di regolazione della velocità  di rotazione. Il sistema di riscaldamento è provvisto di 2 bruciatori GPL/METANO con gestione a valvola manuale. E' possibile acquistare PRA60 nelle versioni Ferro Verniciato o Acciaio.",
+            "List": "<ul><li>Regolazione semi-automatica dell' inclinazione bassina.</li><li>Bassina artigianale in rame battuto da 60cm di diametro. </li><li>Potenza assorbita 370W alimentazione elettrica 230V50Hz o ver. 380v</li><li>Regolazione manuale velocità;rotazione bassina da 18 a 32rpm.</li><li>Alimentazione riscaldamento bassina a gas GPL/METANO.</li><li>Potenza bruciatori da 4 a 16Kcal/h.</li><li>Produzione oraria indicativa 20-24Kg</li><li>Misure macchina 75x114x135cm Peso=145Kg</li></ul>"
+        },
+        "PralinatricePRA60":{
+            "Title": "Garrapiñadora IR_PRA60",
+            "Description": "Máquina de Garrapiñar. El modelo PRA60 es el modelo insignia de ITARUS para la preparación con almendras, cacahuetes, nueces y cacahuetes azucarados para ser utilizados en confiterías grandes y medianas. La máquina es semi-automática con la posibilidad de ajustar la inclinación del trabajo y para descargar el producto, con la posibilidad de ajustar la velocidad de rotación. El sistema de calefacción está equipado con 2 quemadores de GLP / metano con control manual de válvulas. PRA60 se puede comprar en las versiones en hierro o acero pintado.",
+            "List": "<ul><li>Ajuste semiautomático de la inclinación de la bassina.</li><li>Olla artesanal en cobre batido de 60cm de diámetro.</li><li>Consumo de energía 370W fuente de alimentación 230V50Hz o ver. 380v</li><li>Ajuste manual de la velocidad de rotación de la olla de 18 a 32 rpm.</li><li>Calentamiento de la cocina de gas LPG / CNG.</li><li>Potencia del quemador de 4 a 16Kcal / h.</li><li>Producción horaria indicativa 20-24kg.</li><li>Máquina de medidas 75x114x135cm Peso = 145Kg</li></ul>",
+            "Optional": "Opcional: Válvula solenoide de seguridad para evitar quemar el producto durante las fases de descarga.",
+            "Informazioni": "Para más información, descargue el",
+            "Catalogo": "catálogo."
+        },
+        "ConfettatriceDRG60":{
+            "Title": "Grageadoras IR_DRG60",
+            "Description": "La DRG60 es una máquina para la producción de grageas, dragées confeti y / o productos con colores, para uso en laboratorios medianos / grandes con un recipiente de acero inoxidable de 60 cm de diámetro. La máquina está equipada con controles electrónicos mínimos, con ajuste de inclinación manual ajustable cada 15 °. Es posible comprar IR_DRG60 en las versiones de hierro pintado o acero.",
+            "List": "<ul><li>Ajuste de la inclinación manual cada + 15 ° -15 °.</li><li>Olla de acero inoxidable de 60cm de diámetro..</li><li>Consumo de energía 550W fuente de alimentación 230V 50Hz</li><li>A.V.R. variable de 1 a 30 rpm.</li><li>Producción horaria media indicativa 40-50Kg.</li><li>Máquina de medidas 75x114x135cm Peso=135Kg</li></ul>"
+        }
+    }
+}

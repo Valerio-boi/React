@@ -1,0 +1,113 @@
+.App {
+  text-align: center;
+  height: 100%;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.night {
+  background-color: black;
+  transition: background-color 1s, color 1s;
+  min-height: 100vh;
+}
+
+.alert-primary {
+  color: #004085 !important;
+  background-color: #cce5ff !important;
+  border-color: #b8daff;
+}
+
+.alert-success {
+  color: #155724 !important;
+  background-color: #d4edda !important;
+  border-color: #c3e6cb !important;
+}
+
+.light {
+  background-color: white;
+  transition: background-color 1s, color 1s;
+  min-height: 100vh;
+}
+
+.light h1,
+.light h2,
+.light div,
+.light textarea {
+  color: black;
+  transition: background-color 1s, color 1s;
+}
+
+.list-group {
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  margin-top: 5px;
+  margin-bottom: 0;
+  border-radius: .25rem;
+}
+
+.thermometer .thermometer__draw-b {
+  position: absolute;
+  top: initial;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  z-index: 1;
+  background-color: #7e93ec !important;
+}
+
+.thermometer--theme-light .thermometer__draw-a,
+.thermometer--theme-light .thermometer__draw-a:before,
+.thermometer--theme-light .thermometer__draw-a:after {
+  background-color: #7e93ec !important;
+}
+
+.thermometer--theme-light ul.thermometer__statistics li {
+  color: rgb(0, 0, 0) !important;
+}
+
+.night .thermometer--theme-light ul.thermometer__statistics li {
+  color: rgb(255, 255, 255) !important;
+}
+
+.night h1,
+.night h2,
+.night div,
+.night textarea {
+  background-color: transparent;
+  color: white;
+  transition: background-color 1s, color 1s;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

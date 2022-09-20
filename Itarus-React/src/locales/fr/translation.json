@@ -1,0 +1,52 @@
+{
+    "translations": {
+        "InitialCard": {
+            "Title1": "Machines pour pralines",
+            "Description": "Machines pour la préparation de comptoir et pour l'industrie de la confiserie."
+        },
+        "SecondCard": {
+            "Title1": "Tecgnologie drageès",
+            "Description":"Machines pour bonbon."
+        },
+        "Machine1": {
+            "Title": "Turbine à praliner IR_PRA60",
+            "Description":"Machine pour le pralinage d'arachides, fruits secs, amandes et arachides."
+        },
+        "Machine2": {
+            "Title": "Turbine d'enrobage chocolat IR_DRG60",
+            "Description":"Machine pour bonbon et dragées froides."
+        },
+        "LabelButton": {
+            "Button": "Afficher"
+        },
+        "Catalogo": {
+            "Title": "Visitez notre catalogue de machines."
+        },
+        "Contatti": {
+            "Contacts": "Contacts"
+        },
+        "ModalInfo": {
+            "GeneralTilte": "Informations et contacts",
+            "FirstTitle": "Notre entreprise",
+            "SecondTitle": "Technologie innovante:",
+            "FirstDescription": "Compétence et sérieux font d'ITARUS un partenaire idéal sur lequel compter. Visitez notre section de produits pour voir nos produits Pralines et Dragee. ITARUS propose également des services de revente de machines et de pièces détachées pour l’étranger. Contactez-nous sans engagement pour toute demande.",
+            "SecondDescription": "Nos machines conviennent au secteur de la confiserie dans les petites boulangeries et les grandes entreprises de production. À cette fin, la société développe de nouvelles solutions technologiques pour une production entièrement ou partiellement automatisée, en maintenant une maintenance fiable et simple.",
+            "Contatti": "Adresses et informations",
+            "DescriptionContatti": "Envoyez-nous un e-mail: marcogiacobbo@itarus.eu ou contactez-nous par téléphone pour plus d'informations +39 349-3348681 \n Via A. Zarpellon 38, San Giuseppe di Cassola (VI) 36022",
+            "Contattaci": "Demandez un devis personnalisé sans engagement en envoyant un email à:"
+        },
+        "PralinatricePRA60":{
+            "Title": "Turbine à praliner IR_PRA60",
+            "Description": "Le modèle PRA60 est le modèle phare de la société ITARUS pour la pralinisation au sucre d’amande, aux arachides, aux fruits secs et aux arachides destinés aux pâtisseries moyennes à grandes. La machine est semi-automatique avec la possibilité de régler l'inclinaison de travail et pour le déchargement du produit, avec la possibilité de régler la vitesse de rotation. Le système de chauffage est équipé de 2 brûleurs GPL / GNV avec gestion manuelle des vannes. Il est possible d’acheter PRA60 dans les versions Iron Painted ou Steel.",
+            "List": "<ul> <li> Régulation semi-automatique de l’inclinaison des basses. </li> <li> Pot en cuivre artisanal de 60 cm de diamètre. </li> <li> Consommation 370W alimentation 230V50Hz ou ver. 380V </li> <li> Réglage manuel de la vitesse de rotation de l’essorage de 18 à 32 tr / min. </li> <li> Chauffage de la base de gaz GPL / GNC. </li> <li> Puissance du brûleur de 4 à 16 Kcal / h. </li> <li> Production horaire indicative de 20 à 24 kg </li> <li> Dimensions de la machine 75x114x135cm Poids = 145Kg </li>",
+            "Optional": "options: Electrovanne de sécurité pour éviter de brûler le produit pendant les phases de déchargement",
+            "Informazioni": "Pour plus d'informations, téléchargez le",
+            "Catalogo": "catalogue."
+        },
+        "ConfettatriceDRG60":{
+            "Title": "Turbine d'enrobage chocolat IR_DRG60",
+            "Description": "Le modèle DRG60 est une machine pour la production de confettis et la réalisation de produits avec la technologie DRAGEE à froid, destinés à être utilisés dans des laboratoires de moyenne / grande taille avec un bol en acier inoxydable de 60 cm de diamètre. La machine est équipée de commandes électroniques minimales, avec un ajustement manuel de l'inclinaison réglable tous les 15 °. Il est possible d’acheter le DRG60 dans les versions Iron Painted ou Steel.",
+            "List": "<ul><li>Réglage de l'inclinaison manuelle tous les + 15 ° -15°.</li><li>Un pot en acier inoxydable de 60 cm de diamètre.</li><li>Consommation 550W alimentation 230V50Hz</li><li>Variable de rotation du pot de 1 à 30 tr / min.</li><li>Production horaire moyenne indicative de 40 à 50 kg</li><li>Dimensions de la machine 75x114x135cm Poids = 135Kg</li></ul>"
+        }
+    }
+}

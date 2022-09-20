@@ -1,0 +1,65 @@
+{
+    "translations": {
+        "InitialCard": {
+            "Title1": "Soluzioni per pralinatura",
+            "Description": "Macchine per la pralinatura da banco e per l'industria dolciaria."
+        },
+        "SecondCard": {
+            "Title1": "Tecnologia dragee",
+            "Description":"Macchine per la confettura e prodotti eseguiti con tecnologia dragee a freddo."
+        },
+        "Machine1": {
+            "Title": "Macchina pralinatrice PRA60",
+            "Description":"Macchina per la pralinatura di noccioline, frutta secca, mandorle e arachidi."
+        },
+        "Machine2": {
+            "Title": "Macchina pralinatrice PRA30",
+            "Description":"Macchina da banco per la pralinatura di noccioline, frutta secca, mandorle e arachidi."
+        },
+        "Machine3": {
+            "Title": "Macchina DRAGEE DRG60",
+            "Description":"Macchina per la confettura e prodotti dragee a freddo."
+        },
+        "Machine4": {
+            "Title": "Mixers - TEKNOMIX",
+            "Description":"Macchina per impastare."
+        },
+        "LabelButton": {
+            "Button": "Mostra"
+        },
+        "Catalogo": {
+            "Title": "Visita il nostro catalogo macchine."
+        },
+        "Contatti": {
+            "Contacts": "Contatti"
+        },
+        "ModalInfo": {
+            "GeneralTilte": "Info e Contatti",
+            "FirstTitle": "La nostra azienda:",
+            "SecondTitle": "Tecnologia innovativa:",
+            "FirstDescription": "Velocità, competenza e serietà fanno della ITARUS un partner ideale a cui affidarsi. Visita la nostra sezione prodotti per visionare le nostre macchine per la pralinatura ed i prodotti Dragee. ITARUS offre anche servizio di rivendita macchine e pezzi di ricambio per l'estero. Contattaci senza impegno per qualsiasi richiesta.",
+            "SecondDescription": "Le nostre macchine sono adatte per il settore dolciario dalle piccole pasticcerie e aziende di grossa produzione. A tal fine, l'azienda sviluppa nuove soluzioni tecnologiche per la produzione completamente o parzialmente automatizzata, mantenendo una manutenzione affidabile e semplice.",
+            "Contatti": "Recapiti ed informazioni",
+            "DescriptionContatti": "Inviateci e-mail: marcogiacobbo@itarus.eu o contattateci telefonicamente per informazioni. \n Via A. Zarpellon 38, San Giuseppe di Cassola (VI) 36022",
+            "Contattaci": "Richiedi un preventivo personalizzato e senza impegno inviandoci un email a:"
+        },
+        "PralinatricePRA60":{
+            "Title": "Pralinatrice PRA60",
+            "Description": "Il modello PRA60 è il modello di punta della ITARUS per la pralinatura con zucchero di mandorle, noccioline, frutta secca e arachidi per l'utilizzo in pasticcerie medio/grandi. La macchina è semi-automatica con possibilità  di regolazione dell' inclinazione di lavoro e per lo scarico prodotto, con possibilità  di regolazione della velocità  di rotazione. Il sistema di riscaldamento è provvisto di 2 bruciatori GPL/METANO con gestione a valvola manuale. E' possibile acquistare PRA60 nelle versioni Ferro Verniciato o Acciaio.",
+            "List": "<ul><li>Regolazione semi-automatica dell' inclinazione bassina.</li><li>Bassina artigianale in rame battuto da 60cm di diametro. </li><li>Potenza assorbita 370W alimentazione elettrica 230V50Hz o ver. 380v</li><li>Regolazione manuale velocità;rotazione bassina da 18 a 32rpm.</li><li>Alimentazione riscaldamento bassina a gas GPL/METANO.</li><li>Potenza bruciatori da 4 a 16Kcal/h.</li><li>Produzione oraria indicativa 20-24Kg</li><li>Misure macchina 75x114x135cm Peso=145Kg</li></ul>",
+            "Optional": "Optionals: <br/> Elettrovalvola di sicurezza per evitare di bruciare il prodotto durante le fasi di scarico.",
+            "Informazioni": "Per altre informazioni, scaricare il",
+            "Catalogo": "catalogo."
+        },
+        "PralinatricePRA30":{
+            "Title": "Pralinatrice mPRA30",
+            "Description": "Modello mPRA30 da banco per la pralinatura con zucchero per mandorle, noccioline, frutta secca e arachidi per l'utilizzo in pasticcerie di piccole dimensioni. La macchina è semi-automatica. Il sistema di riscaldamento è provvisto di 1 bruciatore GPL/METANO con gestione a valvola manuale fino a 6Kw di potenza. Produzione oraria 3-4Kg.",
+            "List": "<ul><li>Bassina artigianale in rame battuto da 32cm di diametro.</li><li>Potenza assorbita 140W, alimentazione elettrica 230V50Hz</li><li>Velocità di rotazione 25rpm</li><li>Alimentazione riscaldamento bassina a gas GPL/METANO.</li><li>Potenza bruciatore da 1 a 6Kcal/h.</li><li>Produzione oraria indicativa 3-4Kg</li><li>Misure macchina 52x310x42cm Peso=15Kg</li></ul>"
+        },
+        "ConfettatriceDRG60":{
+            "Title": "Macchina confettatrice DRG60",
+            "Description": "Il modello DRG60 è una macchina per confettura e la realizzazione di prodotti con tecnologia DRAGEE a freddo, per l'utilizzo in laboratori medio/grandi con boccia in Acciaio INOX di 60cm di diametro. La macchina è provvista di controlli elettronici minimi, con regolazione dell' inclinazione di lavoro manuale regolabile ogni 15°. E' possibile acquistare DRG60 nelle versioni Ferro Verniciato o Acciaio.",
+            "List": "<ul><li>Regolazione dell' inclinazione manuale ogni +15°-15°.</li><li>Bassina in Acciaio INOX da 60cm di diametro.</li><li>Potenza assorbita 550W alimentazione elettrica 230V50Hz</li><li>R.V.B. variabile da 1 a 30rpm.</li><li>Produzione oraria media indicativa 40-50Kg</li><li>Misure macchina 75x114x135cm Peso=135Kg</li><li>R.V.B.=Regolazione velocità di rotazione boccia</li></ul>"
+        }
+    }
+}
